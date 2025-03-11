@@ -1,7 +1,28 @@
 <p align="center">
   <img src="https://naitatte.com/resources/github/readme/KUJVyoShoE.gif">
-<br><br>
-<samp>
-Hi, I'm Eddie and I am a full stack developer with experience in Python, .NET, and cybersecurity. I specialize in both mobile and web development and believe in the power of technology to solve problems big and small. And just a friendly reminder, I believe in continuous learning and staying up to date with the latest technologies and industry trends.
-</samp>
 </p>
+
+<h1 align="center">Hi there, I'm Eddie! 👋</h1>
+
+<p align="center">
+  🚀 Full Stack Developer | 🐍 Python | 💻 .NET | 🔐 Cybersecurity Enthusiast  
+</p>
+
+---
+
+### 🚀 About Me  
+I'm a passionate **Full Stack Developer** with expertise in **Python, .NET, and Cybersecurity**. I specialize in **mobile and web development**, leveraging technology to build innovative solutions that solve real-world problems.  
+
+💡 I believe in **continuous learning** and staying ahead of the curve with the latest **technologies and industry trends**.  
+
+---
+
+### 🛠️ Tech Stack  
+🔹 **Languages**: Python, JavaScript, C#, TypeScript  
+🔹 **Frameworks**: React, Next.js, .NET Core, FastAPI  
+🔹 **Databases**: PostgreSQL, MongoDB, Firebase  
+🔹 **DevOps & Tools**: Docker, GitHub Actions, AWS, Vercel  
+
+---
+
+⭐ **Feel free to explore my repositories and drop a ⭐ if you find something useful!**  
