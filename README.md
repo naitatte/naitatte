@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Eddie! 👋</h1>
+<h1 align="center">Hi there, I'm Gabo! 👋</h1>
 
 <p align="center">
   🚀 Full Stack Developer | 🐍 Python | 💻 .NET | 🔐 Cybersecurity Enthusiast  
