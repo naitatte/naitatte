@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://naitatte.com/resources/github/readme/KUJVyoShoE.gif">
-</p>
-
 <h1 align="center">Hi there, I'm Eddie! 👋</h1>
 
 <p align="center">
