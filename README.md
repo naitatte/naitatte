@@ -9,7 +9,7 @@
 **Founder / Lead**
 Basically, I built my own ship. We make web apps that are secure by default, not by accident.
 * Technologies: NestJS, Next.js, .NET, Python.
-* [Visit Launchbase](YOUR_URL_HERE)
+* [Visit Launchbase](launchbase.es)
 
 ### // the stack
 I speak a few languages. Here are the ones I actually like.
@@ -24,5 +24,5 @@ I speak a few languages. Here are the ones I actually like.
 
 ### // status
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true&hide_title=true" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=naitatte&show_icons=true&theme=radical&hide_border=true&hide_title=true" alt="stats" />
 </p>
