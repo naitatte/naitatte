@@ -9,7 +9,7 @@
 **Founder / Lead**
 Basically, I built my own ship. We make web apps that are secure by default, not by accident.
 * Technologies: NestJS, Next.js, .NET, Python.
-* [Visit Launchbase](launchbase.es)
+* [Visit Launchbase](https://launchbase.es/)
 
 ### // the stack
 I speak a few languages. Here are the ones I actually like.
